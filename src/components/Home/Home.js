@@ -3,7 +3,7 @@ import { useLoaderData } from 'react-router-dom';
 import Table from "../Table"
 import './Home.css'
 
-import leaderBoard from '../LeaderBoard/leaderBoard'
+
 import Instructor from '../Instructors/Instructor';
 import Footer from '../Footer/Footer';
 
