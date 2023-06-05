@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 12px 20px 0 rgba(106, 90, 224, 0.321);
+}
+
+.links a {
+    margin: 20px 20px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    color: #6A5AE0;
+}
